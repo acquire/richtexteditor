@@ -1,0 +1,18 @@
+c:\users\mikw\documents\visual studio 2015\Projects\richtexteditor\richtexteditor\bin\Debug\richtexteditor.exe.config
+c:\users\mikw\documents\visual studio 2015\Projects\richtexteditor\richtexteditor\bin\Debug\richtexteditor.exe
+c:\users\mikw\documents\visual studio 2015\Projects\richtexteditor\richtexteditor\bin\Debug\richtexteditor.pdb
+c:\users\mikw\documents\visual studio 2015\Projects\richtexteditor\richtexteditor\obj\Debug\richtexteditor.csprojResolveAssemblyReference.cache
+c:\users\mikw\documents\visual studio 2015\Projects\richtexteditor\richtexteditor\obj\Debug\richtexteditor.Form1.resources
+c:\users\mikw\documents\visual studio 2015\Projects\richtexteditor\richtexteditor\obj\Debug\richtexteditor.Properties.Resources.resources
+c:\users\mikw\documents\visual studio 2015\Projects\richtexteditor\richtexteditor\obj\Debug\richtexteditor.csproj.GenerateResource.Cache
+c:\users\mikw\documents\visual studio 2015\Projects\richtexteditor\richtexteditor\obj\Debug\richtexteditor.exe
+c:\users\mikw\documents\visual studio 2015\Projects\richtexteditor\richtexteditor\obj\Debug\richtexteditor.pdb
+C:\Users\mikw\Desktop\richtexteditor\richtexteditor\bin\Debug\richtexteditor.exe.config
+C:\Users\mikw\Desktop\richtexteditor\richtexteditor\obj\Debug\richtexteditor.exe
+C:\Users\mikw\Desktop\richtexteditor\richtexteditor\obj\Debug\richtexteditor.pdb
+C:\Users\mikw\Desktop\richtexteditor\richtexteditor\bin\Debug\richtexteditor.exe
+C:\Users\mikw\Desktop\richtexteditor\richtexteditor\bin\Debug\richtexteditor.pdb
+C:\Users\mikw\Desktop\richtexteditor\richtexteditor\obj\Debug\richtexteditor.csprojResolveAssemblyReference.cache
+C:\Users\mikw\Desktop\richtexteditor\richtexteditor\obj\Debug\richtexteditor.Form1.resources
+C:\Users\mikw\Desktop\richtexteditor\richtexteditor\obj\Debug\richtexteditor.Properties.Resources.resources
+C:\Users\mikw\Desktop\richtexteditor\richtexteditor\obj\Debug\richtexteditor.csproj.GenerateResource.Cache
